@@ -1,0 +1,10 @@
+C:\Users\Biel Lima\source\repos\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\Biel Lima\source\repos\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\Biel Lima\source\repos\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\Biel Lima\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.frmCadastro.resources
+C:\Users\Biel Lima\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\Biel Lima\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\Biel Lima\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Biel Lima\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\Biel Lima\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\Biel Lima\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
